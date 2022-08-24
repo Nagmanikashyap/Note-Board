@@ -1,8 +1,6 @@
 # Note-Board 
 The digital note-taking project operatable on various browsers and systems.
 
-## Test the Project
-[click here](#file:///C:/Users/JEETENDRA%20KUMAR/Desktop/Project/WritingBoard-master/public/main.html)
 ## Some Features
 - Shows remote user cursors while drawing
 - Undo / Redo function for each user
@@ -15,3 +13,5 @@ The digital note-taking project operatable on various browsers and systems.
 
 ## Development
 The website will be accessible on http://locahost:5500
+## Requirements
+Working PC and a web browser.
